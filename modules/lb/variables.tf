@@ -1,0 +1,10 @@
+variable "project_name"{}
+variable "public_instance_sg_id"{}
+variable "private_instance_sg_id"{}
+variable "public-subnet-az1-id"{}
+variable "public-subnet-az2-id"{}
+variable "aws_acm_certificate_validation_acm_certificate_validation_arn"{}
+variable "vpc_id"{}
+variable "public_loadbalancer_target_group_arn"{}
+variable "private-data-subnet-az1-id"{}
+variable "private-data-subnet-az2-id"{}
