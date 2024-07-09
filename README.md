@@ -66,7 +66,7 @@ type below command to see plan of the exection
 terraform plan
 ```
 
-Then , finally type below comand 
+Then , finally type below command 
 ```sh
 terraform apply 
 ```
