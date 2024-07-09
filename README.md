@@ -66,7 +66,7 @@ type below command to see plan of the exection
 terraform plan
 ```
 
-✨Finally, HIT the below command to deploy the application...
+Then , finally type below comand 
 ```sh
 terraform apply 
 ```
